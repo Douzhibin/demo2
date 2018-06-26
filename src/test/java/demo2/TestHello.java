@@ -11,6 +11,6 @@ public class TestHello {
     	 Hello h=new Hello();
     	 String ret=h.hello();
     	 //∂œ—‘≤‚ ‘
-    	 Assert.assertEquals("hello maven", ret);
+    	 Assert.assertEquals("hello git", ret);
      }
 }
